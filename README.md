@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Statement
 
-This is the React APP to display the list of comment in the Table form by utilize the react API
+>This is the React APP to display the list of comment in the Table form by utilize the react API
 
 ## Available Scripts
 
